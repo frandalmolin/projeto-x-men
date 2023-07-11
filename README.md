@@ -1,2 +1,2 @@
 # projeto-x-men
-Semana Dev mdobro
+Semana Dev em dobro
